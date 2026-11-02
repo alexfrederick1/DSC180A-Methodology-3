@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Alex Frederick
-afrederick@ucsd.edu
+Alex Frederick and Pranav Rajaram
